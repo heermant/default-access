@@ -1,0 +1,14 @@
+{
+	"appname": "default access",
+	"scope": "BuyerAdmin FullAccess",
+	"clientid": "059C97E7-CF26-4A7E-95E1-A3B000396008",
+	"buyerid": "bowlingrings",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
